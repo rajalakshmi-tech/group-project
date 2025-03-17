@@ -10,6 +10,7 @@ function App() {
     <>
     <h1 className='home'>Welcome to our group project</h1>
     <h2>This is our home page.</h2> 
+  
         
     </>
   )
